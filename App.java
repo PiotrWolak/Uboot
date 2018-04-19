@@ -16,7 +16,7 @@ public class App {
         String text = null;
 
 
-            text = br.readLine();
+        text = br.readLine();
 
 
         while(text!=null){

@@ -1,0 +1,5 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~INSTRUKCJA~~~~~~~~~~~~~~~~~~~~~~
+Zasady gry przypominaja klasyczne statki. Roznica polega na dodatkowym
+wymiarze (glębi). Po rozpoczeciu gry gracze ustawiają 5 łodzi na danych 
+współrzednych (X,Y,Z), x i y to wspolrzedne plaszczyzny, z to glebokosc.
+Wygrywa ten, ktory pierwszy zatopi wszystkie statki przeciwnika.
