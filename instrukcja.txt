@@ -1,0 +1,8 @@
+~~~~~~~~~~~~~~~~INSTRUKCJA~~~~~~~~~~~~~~
+Zasady gry sa podobne do standardowej gry w 'statki'
+Roznica polega na tym, ze oprocz planszy 10x10 dochodzi trzeci wymiar
+zwany "glebokoscia". Na poczatku gry gracze rozmieszczcaja lodzie podwodne,
+ktorych do konca gry nie mozna juz zmienic.
+ Po rozmieszczeniu statkow gracze na zmiane probuja trafic 
+w lodzie podwone przeciwnika. Wygrywa ten, ktory pierwszy zatopi wszystkie statki
+
