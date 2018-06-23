@@ -1,0 +1,6 @@
+~~~~UBOOT~~~~
+This game is designed for 2 players. At the begining each player place his submarines on specified location (X-Y-Z)
+The dimensions of battleground are fixed between 0-9 for X and Y (2D coordinates) and 0-4 (depth)
+After this each player has a chance to either SHOT at particular XYZ coordinates or SCAN whole board at random level(depth).
+SCAN makes the game a little bit faster, since the probability of random shot being succesful is 5 times less due to the depth.
+Game lasts until one of the player loses all his HP which is equal to all ships' health.
